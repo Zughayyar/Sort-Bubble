@@ -16,6 +16,8 @@ def sort_bubble(some_list):
 
 list_1 = [8,5,2,6,9,3,1,4,0,7]
 list_2 = [81,53,12,-6,53,3,1,4,-2,7]
+list_3 = [81,-6,53,3,-11,324,-22,100]
 
 print(sort_bubble(list_1))
 print(sort_bubble(list_2))
+print(sort_bubble(list_3))
